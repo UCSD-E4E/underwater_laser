@@ -8,6 +8,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 5. Laser assembly SHOULD include a calibration stage (both as a procedure and physical assembly).
 6. Total laser BOM (including machine time and labor at U.S. market rate for batch qty 100) SHOULD be less than USD 150.
 7. Laser MAY utilize COTS components or be a COTS component.
+8. Laser MUST be between +1 and -1 lbs of buoyancy in seawater.
 
 # Underwater Laser Mount
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
