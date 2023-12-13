@@ -13,9 +13,9 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 ## Requirements
 1. Mount MUST be robust to 75 lb crushing forces from any direction.
-2. Mount MUST mate to a standard cold shoe.
-3. Mount MUST resist 50 lb forces from any direction once mounted to the cold shoe with at most 0.1 in deviation.
-4. Mount MUST resist 25 lb-ft torque from the laser mouning interface once mounted to the cold shoe with at most 0.5 degree deviation.
+2. Mount MUST mate to a standard cold shoe or to the 1/4-20 mounting screw.
+3. Mount MUST resist 50 lb forces from any direction once mounted to the camera with at most 0.1 in deviation.
+4. Mount MUST resist 25 lb-ft torque from the laser mouning interface once mounted to the camera with at most 0.5 degree deviation.
 5. Mount design MUST define dynamic rules to fit an arbitrary cylindrical laser up to 2.1 in diameter.
 6. Mount MUST provide visual or mechanical indexing to locate the cylindrical laser to within 1 degree of rotation.
 7. Mount MUST be built from corrosion resistant materials, and provide for galvanic corrosion prevention over the operational lifetime.
