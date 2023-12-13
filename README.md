@@ -7,3 +7,4 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 4. Laser beam SHOULD be aligned to within 0.1 degree (6 MOA).
 5. Laser assembly SHOULD include a calibration stage (both as a procedure and physical assembly).
 6. Total laser BOM (including machine time and labor at U.S. market rate for batch qty 100) SHOULD be less than USD 150.
+7. Laser MAY utilize COTS components or be a COTS component.
